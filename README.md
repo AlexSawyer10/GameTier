@@ -10,5 +10,3 @@ Users sign in with Auth0, search games, open game details, and build ordered lis
 - **Backend:** Express, TypeORM
 - **Database:** MySQL
 - **Game catalog:** RAWG API
-
-The UI is deployed on Vercel. The API exposes routes for login, search, profiles, lists, and comments.
